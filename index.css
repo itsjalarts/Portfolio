@@ -11,6 +11,7 @@ html {
     background-color: var(--baby_powder);
     font-family: 'Lucida Sans', sans-serif;
     padding: 2rem;
+    line-height: 1.6;
 }
 
 #navbar {
@@ -42,6 +43,11 @@ html {
     margin-right: auto;
 }
 
+h2 {
+    text-align: center;
+    font-size: 40px;
+}
+
 #gallery {
     display: flex;
     flex-wrap: wrap;
@@ -55,7 +61,7 @@ html {
 }
 
 #rainy_day {
-    height: 120vh;
+    height: 110vh;
 }
 
 #clown_anatomy {
@@ -65,6 +71,10 @@ html {
 #tangie_reen {
     height: 86vh;
     
+}
+
+#paws {
+    height: 100vh;
 }
 
 footer {
