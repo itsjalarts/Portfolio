@@ -48,9 +48,7 @@ html {
 }
 
 .bio {
-    border: solid black 1px;
-    width: 50vw;
-    height: 50vh;
+    width: 40vw;
 
     font-size: 20px;
     color: var(--eerie_black);
