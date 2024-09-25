@@ -113,3 +113,9 @@ footer {
 .fa:visited {
     color: var(--pumpkin);
 }
+
+@media screen and (max-width: 1080px) {
+    #gallery a {
+        width: 1000px;
+    }
+}
