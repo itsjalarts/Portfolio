@@ -60,6 +60,10 @@ h2 {
     margin: 1rem;
 }
 
+#world_building {
+    height: 75vh;
+}
+
 #rainy_day {
     height: 110vh;
 }
